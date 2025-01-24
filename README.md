@@ -53,8 +53,29 @@ Hi, I'm Abhinav Bulusu! As an **Electrical and Computer Engineering** student, I
      - Optical Character Recognition (OCR) for converting menu text into audio.
      - Computer vision (in progress) for detecting allergens such as nuts, dairy, and gluten in food descriptions.
      - Real-time voice feedback for accessibility.
+    
+### 5. **High-Performance Market Data Analysis (Jane Street) and Modeling 📊**
+   - **Goal**: Analyzing real-time market data to identify trends and build predictive models for financial forecasting.
+   - **Tech Stack**: Python, Dask, LightGBM, XGBoost, CatBoost, Polars, Scikit-learn, Matplotlib, Seaborn, Statsmodels.
+   - **Features**:
+     - Scalable data processing with Dask to handle datasets with millions of rows efficiently.
+        - Missing Value Handle
+             General forward and backward fill for missing data.
+             Selective KNN imputation for columns with >5% missing values.
+     - Feature selection based on correlation with target variables for improved model performance.
+     - Model interpretability through permutation importance and statistical analysis.
+     - Normality testing with Kolmogorov-Smirnov Test for target variable distribution.
+   - **Visualization**:
+   - Missing value analysis with bar plots.
+   - Feature correlation with target variables using bar charts.
+   - Distribution analysis of key features using histograms.
+   - **Impact**:
+   - Demonstrates advanced data analysis techniques for handling large-scale financial datasets.
+   - Provides insights into feature importance and statistical behavior of financial data.
+     
 
-### 5. **Other Projects**
+
+### 6. **Other Projects**
    - Coming soon... Stay tuned for more updates!
 
 ---
