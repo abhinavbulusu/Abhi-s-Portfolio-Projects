@@ -44,14 +44,23 @@ Hi, I'm Abhinav Bulusu! As an **Electrical and Computer Engineering** student, I
    - **Features**:
      - Clustering algorithms like K-Means and DBSCAN.
      - Visualizing customer behavior patterns.
+    
+### 4. **TheThirdEye: Accessible Menu Reader and Allergy Detector for the Visually Impaired 👁️**
+   - **Goal**: Creating a mobile app that helps visually impaired individuals read restaurant menus and detect potential allergens in food using advanced computer vision techniques.
+   - **Collaboration**: Partnered with Perkins School for the Blind and Texas School for the Blind to ensure the app meets accessibility standards and addresses real-world challenges.
+   - **Tech Stack**: Swift, OpenCV, Python.
+   - **Features**:
+     - Optical Character Recognition (OCR) for converting menu text into audio.
+     - Computer vision (in progress) for detecting allergens such as nuts, dairy, and gluten in food descriptions.
+     - Real-time voice feedback for accessibility.
 
-### 4. **Other Projects**
+### 5. **Other Projects**
    - Coming soon... Stay tuned for more updates!
 
 ---
 
 ## 🛠️ Tools and Technologies
-- **Programming Languages**: Python, Java.
+- **Programming Languages**: Python, Java, Swift
 - **Libraries and Frameworks**: TensorFlow, PyTorch, Scikit-learn, Pandas, Matplotlib.
 - **Cloud Platforms**: AWS (SageMaker, S3, Lambda).
 - **Development Environments**: Google Colab, Jupyter Notebooks.
